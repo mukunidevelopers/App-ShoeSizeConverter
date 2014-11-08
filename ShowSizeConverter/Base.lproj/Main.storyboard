@@ -52,7 +52,7 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
                     <connections>
-                        <outlet property="mensConvertedShoeSizeLabel" destination="8bC-Xf-vdC" id="NKI-L4-f2e"/>
+                        <outlet property="mensConvertedShoeSizeLabel" destination="csu-jc-P7J" id="wt2-sA-8Fd"/>
                         <outlet property="mensShoeSizeTextField" destination="PUP-XI-nir" id="LdG-6L-fPo"/>
                     </connections>
                 </viewController>
